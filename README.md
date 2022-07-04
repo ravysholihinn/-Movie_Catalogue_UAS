@@ -1,4 +1,8 @@
 # -Movie_Catalogue_UAS
+
+# Aplikasi LINK APK 
+https://drive.google.com/file/d/1w1J-xvVfeTcEhjOxJ4uAWQmy1DM8IZEc/view?usp=sharing
+
 # Video 
 https://user-images.githubusercontent.com/101694628/177154820-1d3716dd-757e-4abc-9376-4b277d1bcc09.mp4
 
@@ -12,5 +16,3 @@ https://user-images.githubusercontent.com/101694628/177154820-1d3716dd-757e-4abc
 ![image](https://user-images.githubusercontent.com/101694628/177155135-955adbd7-e59c-4a2a-bb3b-22724015b281.png)
 
 
-Aplikasi LINK APK 
-https://drive.google.com/file/d/1w1J-xvVfeTcEhjOxJ4uAWQmy1DM8IZEc/view?usp=sharing
